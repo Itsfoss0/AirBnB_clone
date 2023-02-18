@@ -31,3 +31,40 @@ __Read or watch__:
 
 ## Learning objectives
 By the end of this project you should be able to [explain to anyone](https://fs.blog/feynman-learning-technique/) __without the help of google__
+
+
+* [X] What is HTML
+* [X] How to create an HTML page
+* [X] What is a markup language
+* [X] What is the DOM
+* [X] What is an element / tag
+* [X] What is an attribute
+* [X] How does the browser load a webpage
+* [X] What is CSS
+* [X] How to add style to an element
+* [X] What is a class
+* [X] What is a selector
+* [X] How to compute CSS Specificity Value
+* [X] What are Box properties in CSS
+
+## Requirements
+### General
+
+- Allowed editors: ```vi```, ```vim```, ```emacs```
+- All your files should end with a new line
+- A README.md file, at the root of the folder of the project, is mandatory
+- Your code should be W3C compliant and validate with W3C-Validator
+- All your CSS files should be in ```styles``` folder
+- All your images should be in ```images``` folder
+- You are not allowed to use ```!important``` and ```id``` (```#```... in the CSS file)
+- You are not allowed to use tags ```img```, ```embed``` and ```iframe```
+- You are not allowed to use Javascript
+- Current screenshots have been done on ```Chrome 56 ```or more.
+- No cross browsers
+- You have to follow all requirements but some ```margin```/```padding``` are missing - you should try to fit as much as you can to screenshots
+
+### More info
+![front-end](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png)
+
+## Quizes
+[Quiz](./quiz.md)
