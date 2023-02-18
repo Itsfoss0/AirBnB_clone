@@ -14,3 +14,31 @@ body {
     margin: 30px 12px 4px;
 }
 ```
+* [X] Yes
+* [ ] No
+
+> ### Tips 
+> ```margin``` and ```padding``` support 4 different syntaxes: [margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+
+
+#### Question #1
+In the followig code, is the text Best School red?
+
+css
+```css
+h1 {
+    color: green;
+}
+
+span.my_title {
+    color: red;
+}
+```
+html
+```html
+<h1>
+    <span class="my_title">Best School</span>
+</h1>
+```
+* [X] Yes
+* [ ] No
