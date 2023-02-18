@@ -282,3 +282,122 @@ body {
 
 > ### Tips:
 > Betty for CSS!
+
+#### Question #17
+Is the following HTML markup valid?
+```html
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>
+            <a href="www.google.com'>Google</a>
+        </h1>
+    </body>
+</html>
+```
+* [X] No
+* [ ] Yes
+(elements are correctly tagged, we don’t care about ```!Doctype``` here)
+
+> ### Tips
+> Number of quotes is important!
+
+#### Question #18
+Is the following CSS synax valid?
+```css
+body {
+    color: #FF0000;
+}
+
+* {
+    font-size: 14px;
+}
+```
+* [X] Yes
+* [ ] No
+
+> ### Tips
+> [universal selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors)
+
+#### Question #19
+In the following code, is the text Best School red?
+
+css
+```css
+h2 {
+    color: red;
+}
+```
+html
+```html
+<h1>Best School</h1>
+```
+* [X] No
+* [ ] Yes
+
+#### Question #20
+Is the following CSS syntax valid?
+```css
+body {
+    color: #FF0000;
+}
+
+div.filters p.title h2 span.text.big {
+    font-size: 20px;
+}
+```
+* [X] Yes
+* [ ] No
+
+#### Question #21
+Is the following markup valid?
+```html
+<html>
+    <head>
+    </head>
+    <body>
+        <img src="logo.png" />
+    </body>
+</html>
+```
+(elements are correctly tagged, we don’t care about ```!Doctype``` here)
+
+* [X] Yes
+* [ ] No
+
+
+> ### Tips:
+> ```<img />``` is an empty element
+
+#### Question #22
+In the following code, is the text ```Best School``` red?
+
+css
+```css
+h1.title {
+    color: red;
+}
+```
+html
+```html
+<h1>Best School</h1>
+```
+* [X] No
+* [ ] Yes
+
+#### Question #24
+In the following code, is the text ```Best School``` red?
+
+css
+```css
+h1 {
+    color: red;
+}
+```
+html
+```html
+<h1>Best School</h1>
+```
+* [X] Yes
+* [ ] No
