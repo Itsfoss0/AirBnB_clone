@@ -1,0 +1,16 @@
+header{
+    color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+
+}
+
+header::before{
+    content: url(../images/logo.png);
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    justify-content: flex-start;
+}
