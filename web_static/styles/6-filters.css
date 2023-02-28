@@ -26,6 +26,9 @@
 
 .container section.filters button:hover {
 	opacity: 90%;
+	background-color:aqua;
+	position: top;
+	top: 0%;
 }
 
 div.locations > h3,
